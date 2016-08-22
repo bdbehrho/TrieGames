@@ -1,0 +1,6 @@
+c:\users\brian\documents\visual studio 2012\Projects\TrieGames\TrieGames\bin\Debug\TrieGames.exe.config
+c:\users\brian\documents\visual studio 2012\Projects\TrieGames\TrieGames\bin\Debug\TrieGames.exe
+c:\users\brian\documents\visual studio 2012\Projects\TrieGames\TrieGames\bin\Debug\TrieGames.pdb
+c:\users\brian\documents\visual studio 2012\Projects\TrieGames\TrieGames\obj\Debug\TrieGames.csprojResolveAssemblyReference.cache
+c:\users\brian\documents\visual studio 2012\Projects\TrieGames\TrieGames\obj\Debug\TrieGames.exe
+c:\users\brian\documents\visual studio 2012\Projects\TrieGames\TrieGames\obj\Debug\TrieGames.pdb
